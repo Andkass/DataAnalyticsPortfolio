@@ -23,4 +23,11 @@ In the structure of this project, it contains the following items:
 
 # DataAnalyticsPortfolio
 
+The "Super Market Power BI Project" contains a dataset of a retail company and that we can draw some insights from the graphics on the dashboard:
+
+- The main spikes in customers' shopping hours;
+- Composition of the type of payment of customers (cash, card or "virtual wallet") and thus, be able to act on. Example: discount to subscribers of the virtual wallet, and thus, retain customer loyalty;
+- Which products are the best sellers (and which are the least sold to be able to do a marketing action on them / increase the stock of the best sellers)
+- Which cities are earning the most revenue (and why);
+
 [Super Market Power BI Project](https://github.com/Andkass/DataSciencePortfolio/blob/main/Supermarket_Sales.pbix)
