@@ -21,6 +21,6 @@ In the structure of this project, it contains the following items:
 
 [Machine Learning Project](https://github.com/Andkass/DataAnalyticsPortfolio/blob/main/MachineLearning_ECommerce.ipynb)
 
-#DataAnalyticsPortfolio
+# DataAnalyticsPortfolio
 
 [Super Market Power BI Project](https://github.com/Andkass/DataSciencePortfolio/blob/main/Supermarket_Sales.pbix)
