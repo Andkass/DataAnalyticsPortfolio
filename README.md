@@ -1,7 +1,7 @@
 # DataSciencePortfolio
 In this portfolio you will find data science projects who many companies are constantly trying to solve nowadays. The datasetes were extracted from Kaggle's webstie and these Machine Learning's projects were created by me.
 
-In the structure of the project, it contains the following items:
+In the structure of this project, it contains the following items:
 - The introduction of the company. What is the company, what do they sell, composition of the variables in your data set, etc;
 - Import of libraries used on the projects;
 - Import of the dataset, print the data size to get a overview;
@@ -20,3 +20,7 @@ In the structure of the project, it contains the following items:
 
 
 [Machine Learning Project](https://github.com/Andkass/DataAnalyticsPortfolio/blob/main/MachineLearning_ECommerce.ipynb)
+
+#DataAnalyticsPortfolio
+
+[Super Market Power BI Project](https://github.com/Andkass/DataSciencePortfolio/blob/main/Supermarket_Sales.pbix)
