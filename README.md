@@ -30,4 +30,9 @@ The "Super Market Power BI Project" contains a dataset of a retail company and t
 - Which products are the best sellers (and which are the least sold to be able to do a marketing action on them / increase the stock of the best sellers)
 - Which cities are earning the most revenue (and why);
 
+Below, a preview of the dashboard:
+
+![SuperMarket_Page1](https://user-images.githubusercontent.com/84490395/120057606-ae3f5180-c01a-11eb-92fe-4e14c0da3891.JPG)
+
+
 [Super Market Power BI Project](https://github.com/Andkass/DataSciencePortfolio/blob/main/Supermarket_Sales.pbix)
